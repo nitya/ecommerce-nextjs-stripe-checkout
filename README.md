@@ -1,3 +1,11 @@
+
+## 🚧 Work in Progress
+
+Exploring extensions to ecommerce-stripe source app to support deployment to Azure and integration of user auth.
+
+
+----
+
 E-commerce store built with Next.js and Stripe checkout by [AlterClass.io](https://alterclass.io).
 
 - Learn to build this application step-by-step by following the tutorial on [AlterClass](https://alterclass.io/tutorials/create-an-ecommerce-website-with-nextjs-and-stripe).
